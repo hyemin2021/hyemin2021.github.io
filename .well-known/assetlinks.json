@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hyemin2021.laptimer",
+      "sha256_cert_fingerprints": [
+        "FE:FB:D2:5F:75:BB:61:3E:C9:F3:7B:BE:C8:55:02:B5:C4:D2:D1:59:2A:9B:CB:04:05:D5:24:CA:C0:D5:3C:90"
+      ]
+    }
+  }
+]
